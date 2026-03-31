@@ -8,13 +8,13 @@ about:
   links:
     - icon: twitter
       text: Twitter
-      href: https://twitter.com/math_rachel
+      href: https://twitter.com/erikgaas
     - icon: linkedin
       text: LinkedIn
-      href: https://linkedin.com/in/rachel-thomas-942a7923/
+      href: https://linkedin.com/in/erikgaas
     - icon: github
       text: Github
-      href: https://github.com/racheltho
+      href: https://github.com/erikgaas
 
 ---
 
