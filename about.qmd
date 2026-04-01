@@ -1,6 +1,6 @@
 ---
 title: "About"
-image: images/erik-merlion.jpg
+image: images/erik_merlion.jpg
 about:
   id: using-template
   image-width: 13em
