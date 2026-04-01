@@ -1,6 +1,6 @@
 ---
 title: "About"
-image: images/thomas-2020-small.jpg
+image: images/erik-merlion.jpg
 about:
   id: using-template
   image-width: 13em

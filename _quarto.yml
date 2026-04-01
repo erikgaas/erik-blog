@@ -6,7 +6,7 @@ project:
 
 website:
   title: "Erik Gaasedelen"
-  site-url: https://rachel.fast.ai
+  site-url: https://erikgaas.github.io/erik-blog
   description: "AI, cardiac science, & learnings"
   image: "/images/thomas-card.jpg"
   open-graph:
