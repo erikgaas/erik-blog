@@ -7,26 +7,26 @@ project:
 website:
   title: "Erik Gaasedelen"
   site-url: https://rachel.fast.ai
-  description: "AI, science, education, & ethics"
+  description: "AI, cardiac science, & learnings"
   image: "/images/thomas-card.jpg"
   open-graph:
-    description: "AI, science, education, & ethics"
+    description: "AI, cardiac science, & learnings"
   twitter-card:
     creator: "@erikgaas"
     site: "@erikgaas"
-    description: "AI, science, education, & ethics"
-  margin-header: subscribe.html
-  body-footer: "<br><br><i>I look forward to reading your responses. Create a free GitHub account to comment below.</i>"
-  comments:
-    giscus:
-        repo: racheltho/rachel-blog
-        repo-id: "R_kgDOIxf7pQ"
-        category: "Announcements"
-        category-id: "DIC_kwDOIxf7pc4CcEZ1"
-        mapping: "pathname"
-        reactions-enabled: true
-        input-position: "bottom"
-        theme: "light"
+    description: "AI, cardiac science, & learnings"
+  # margin-header: subscribe.html
+  # body-footer: "<br><br><i>I look forward to reading your responses. Create a free GitHub account to comment below.</i>"
+  # comments:
+  #   giscus:
+  #       repo: racheltho/rachel-blog
+  #       repo-id: "R_kgDOIxf7pQ"
+  #       category: "Announcements"
+  #       category-id: "DIC_kwDOIxf7pc4CcEZ1"
+  #       mapping: "pathname"
+  #       reactions-enabled: true
+  #       input-position: "bottom"
+  #       theme: "light"
        
   navbar:
     right:

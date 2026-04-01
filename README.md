@@ -1,3 +1,3 @@
-# rachel-blog
+# erik-blog
 
-immunology, data ethics, and machine learning
+communication practice : P

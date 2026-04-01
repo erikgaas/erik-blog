@@ -1,5 +1,5 @@
 ---
-title: "AI, science, education, & ethics"
+title: "Learnings, experiments, & observations"
 listing:
   contents: posts
   sort: "date desc"

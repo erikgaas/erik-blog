@@ -20,15 +20,15 @@ about:
 
 :::{#using-template}
 
-Past: cofounder of fast.ai, professor & director of University of San Francisco Center for Applied Data Ethics, data scientist, one of Forbes 20 Incredible Women in AI, early engineer at Uber, PhD in mathematics from Duke University
+Past: Staff software engineer at Lyft Level 5, Senior Manager at Woven By Toyota, PhD in Bionformatics and Computational Biology at the University of Minnesota in the Visible Heart Lab
 
-[//]: #Areas: <a href="#mathbio">mathematical biology</a>, <a href="#ethics">data ethics</a>, and <a href="#ml">machine learning</a> 
+[//]: #Areas: <a href="#mathbio">cardiac science</a>, <a href="#ethics">self driving cars</a>, and <a href="#ml">machine learning</a> 
 
-Location: Brisbane, Australia
+Location: Mountain View, CA
 
 :::
 
-<h3 id="ml">Machine Learning and Data Science</h3>
+<!-- <h3 id="ml">Machine Learning and Data Science</h3>
 
 - Co-founder of [course.fast.ai](https://course.fast.ai/), which created the longest running deep learning course in the world
 - Designed and taught graduate level courses on [Natural Language Processing](https://www.fast.ai/2019/07/08/fastai-nlp/) and 
@@ -38,17 +38,17 @@ Location: Brisbane, Australia
 - [Beginner friendly workshop on Word Embeddings (such as Word2Vec)](https://www.youtube.com/watch?v=25nC0n9ERq4&list=PLtmWHNX-gukLQlMvtRJ19s7-8MrnRV6h6&index=13)
 - Forbes [20 Incredible Women in AI](https://www.forbes.com/sites/mariyayao/2017/05/18/meet-20-incredible-women-advancing-a-i-research/?sh=3662785a26f9)
 - Featured in book [Women Tech Founders on the Rise](https://www.amazon.com/WTF-Happening-Women-Tech-Founders-ebook/dp/B07Q5B53N8)
-- Early data scientist and software engineer at Uber
+- Early data scientist and software engineer at Uber -->
 
-<h3 id="mathbio">Mathematical Biology and AI in Medicine</h3>
+<!-- <h3 id="mathbio">Mathematical Biology and AI in Medicine</h3>
 
 - [A Mathematical Model of Glutathione Metabolism](https://tbiomed.biomedcentral.com/articles/10.1186/1742-4682-5-8), Journal of Theoretical Biology and Medical Modeling
 - [Medicine's Machine Learning Problem](https://bostonreview.net/science-nature/rachel-thomas-medicines-machine-learning-problem), Boston Review
 - Earned a PhD in mathematics from Duke University
 - Howard Hughes Medical Institute Fellowship
-- keynote speaker at [Stanford’s Artificial Intelligence in Medicine Symposium](https://youtu.be/vVRWeGlMkGk)
+- keynote speaker at [Stanford’s Artificial Intelligence in Medicine Symposium](https://youtu.be/vVRWeGlMkGk) -->
 
-<h3 id="ethics">Data Ethics</h3>
+<!-- <h3 id="ethics">Data Ethics</h3>
 
 - Professor of Practice at [Queensland University of Technology Centre for Data Science](https://research.qut.edu.au/qutcds/)
 - Founding director of [Center for Applied Data Ethics (CADE)](https://www.usfca.edu/data-institute/initiatives/center-applied-data-ethics) 
@@ -58,9 +58,9 @@ at University of San Francisco
 - Wrote book chapters for:
     - [97 Things About Ethics Everyone in Data Science Should Know](https://www.oreilly.com/library/view/97-things-about/9781492072652/)
     - [Deep Learning for Coders with Fastai and PyTorch: AI Applications Without a PhD](https://www.amazon.com/Deep-Learning-Coders-fastai-PyTorch/dp/1492045527)
-    - [Redesigning AI](https://store.bostonreview.net/redesigning-ai)
+    - [Redesigning AI](https://store.bostonreview.net/redesigning-ai) -->
 
 <br>
 
-![A few events I've spoken at](images/prof-collage.jpg)
+<!-- ![A few events I've spoken at](images/prof-collage.jpg) -->
 
