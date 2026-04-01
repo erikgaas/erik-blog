@@ -5,15 +5,15 @@ project:
     browser: false
 
 website:
-  title: "Rachel Thomas, PhD"
+  title: "Erik Gaasedelen"
   site-url: https://rachel.fast.ai
   description: "AI, science, education, & ethics"
   image: "/images/thomas-card.jpg"
   open-graph:
     description: "AI, science, education, & ethics"
   twitter-card:
-    creator: "@math_rachel"
-    site: "@math_rachel"
+    creator: "@erikgaas"
+    site: "@erikgaas"
     description: "AI, science, education, & ethics"
   margin-header: subscribe.html
   body-footer: "<br><br><i>I look forward to reading your responses. Create a free GitHub account to comment below.</i>"
@@ -33,11 +33,11 @@ website:
       - text: About
         href: about.qmd
       - icon: twitter
-        href: https://twitter.com/math_rachel
+        href: https://twitter.com/erikgaas
       - icon: linkedin
-        href: https://www.linkedin.com/in/rachel-thomas-942a7923/
-      - icon: youtube
-        href: https://www.youtube.com/playlist?list=PLtmWHNX-gukLQlMvtRJ19s7-8MrnRV6h6
+        href: https://www.linkedin.com/in/erikgaas
+      # - icon: youtube
+      #   href: https://www.youtube.com/playlist?list=PLtmWHNX-gukLQlMvtRJ19s7-8MrnRV6h6
       - icon: rss
         href: index.xml
       - text: Archive
